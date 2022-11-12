@@ -10,9 +10,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-                    
-                    Hi 👋, I'm Petit-Homme Ben-Jacques
-- 👋 Hi, I’m @DevBeneymar
+       
+<div align="center"> <hr></div> 
+       
+<div align="center"><h3> Hi 👋, I'm Petit-Homme Ben-Jacques </h3>  </div> 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
