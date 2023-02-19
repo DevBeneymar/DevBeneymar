@@ -13,11 +13,16 @@
        
 <div align="center"> <hr></div> 
        
-<div align="center"><h3> Hi 👋, I'm Petit-Homme Ben-Jacques </h3>  </div> 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center"><h3> Hi 👋, I'm Petit-Homme Ben-Jacques </h3>  
+<ul>
+<li> 👀 I’m interested in ... </li>
+<li> 🌱 I’m currently learning ... </li>
+<li> 💞️ I’m looking to collaborate on ... </li>
+<li> 📫 How to reach me ...  </li>
+</ul>
+
+</div> 
+
 
 <!---
 DevBeneymar/DevBeneymar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
